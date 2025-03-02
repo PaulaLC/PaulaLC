@@ -19,7 +19,7 @@ I'm a Data Scientist passionate about **transforming data into actionable insigh
 
 ## 📌 **Highlighted Projects**  
 - [Netflix Oldies – Honourable Mention (Shiny App Contest, 2024)](https://github.com/PaulaLC/netflix-app)
-- [Bayesian Contextual Bandits for Personalized Recommendations](https://paulalcasado.wordpress.com/2018/11/12/recommendation-systems-using-holistic-customer-insights/)
+- [Bayesian Contextual Bandits for Personalized Recommendations](https://paulalc.github.io/events/recommender.html)
 - [Optimizing Ride Matching](https://paulalc.github.io/optimizing-ride-matching.html)
 
 More projects available on my **[GitHub Repositories](https://github.com/paulalc)**!  
